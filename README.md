@@ -1,1 +1,1 @@
-# Bot-Wa-AchmadUlinNuha
+#Fast Bot
